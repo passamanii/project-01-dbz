@@ -1,5 +1,9 @@
 🐉 Dragon Ball Fan Page. A simple, self-made Dragon Ball-themed webpage created using HTML, CSS, and a bit of JavaScript. This page includes character references, fun content, and fixed lateral buttons to enhance navigation or user interaction.
 
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/b0193bcb-3065-40c0-ae38-63c2076c741d)!
+
 🌟 Features
 
 - Clean and straightforward layout;
