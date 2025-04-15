@@ -2,7 +2,7 @@
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/b0193bcb-3065-40c0-ae38-63c2076c741d)!
+![image](https://github.com/user-attachments/assets/5db66b0b-7d16-4846-8a4c-dfeaacb6f20e)
 
 🌟 Features
 
